@@ -29,6 +29,8 @@ if (typeof PDFJS === 'undefined') {
 //#expand PDFJS.build = '__BUNDLE_BUILD__';
 //#endif
 
+//I love GitHub
+
 (function pdfjsWrapper() {
   // Use strict in our context only - users might not want it
   'use strict';
